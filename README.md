@@ -15,9 +15,9 @@ Evaluation metric: Cross-validated area under the ROC curve (AUC) statistic.
 
 # Winners #
 
-## Fourth Place ## 
+## Fourth Place:  ## 
 ### Byte Monsters ###   
-Isaac Thompson @ Shaker  
+[Isaac Thompson] (linkedin.com/in/thompsonisaac) @ [Shaker] (https://www.shakercg.com)   
 Scott Tonidandel @ Davidson  
 Private Test Set AUC = .834379  
 Presentation  
