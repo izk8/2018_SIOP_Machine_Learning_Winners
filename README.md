@@ -13,11 +13,6 @@ Training set (n = 24,205)
 Test set (n = 8,091)  
 Evaluation metric: Cross-validated area under the ROC curve (AUC) statistic.  
 
-### Organizers ###
-Dan J. Putka   
-Alexander Schwall  
-Ben Taylor  
-
 # Winners #
 
 ## Fourth Place ## 
@@ -29,3 +24,8 @@ Presentation
 
 ## First Place ## 
 ### An Enriching Meal ###   
+
+### Organizers ###
+Dan J. Putka   
+Alexander Schwall  
+Ben Taylor  
