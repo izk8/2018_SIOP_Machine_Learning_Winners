@@ -21,7 +21,7 @@ Scott Tonidandel @ Davidson
 Private Test Set AUC = .834  
 [Presentation](04_ByteMonsters/SIOP_ML_Comp_Byte_Monsters.pdf)
 
-## First Place:  An Enriching Meal ([Code](01_An_Enriching_Meal/An Enriching Meal Entry Entry 30.ipynb)) ## 
+## First Place: An Enriching Meal ([Code](01_An_Enriching_Meal)) ##  
 [Nick Koenig](linkedin.com/in/nick-koenig-69699a27) @ [Walmart](https://www.walmart.com)   
 Private Test Set AUC = .839   
 
