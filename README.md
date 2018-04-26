@@ -1,5 +1,5 @@
 # 2018 SIOP Machine Learning Competition Repository #
-The 2018 conference features the results of SIOP's first-ever machine learning competition. Teams have been competing for several weeks by experimenting with various analytical tech-niques for maximizing the variance explained in a large-scale data set. Those with the best results have been invited to present their methods and findings at SIOP 2018. 
+The 2018 conference featured the results of SIOP's first-ever machine learning competition. Teams competed for several months by experimenting with various analytical techniques for maximizing the variance explained in a large-scale data set. Those with the best results presented their methodsat SIOP 2018. Here is the repo with all their code and select presentations.  
 
 
 ### Problem ###
