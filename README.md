@@ -21,8 +21,8 @@ Private Test Set AUC = .839
 
 ## Second Place: Team DDI ([Code](02_Team_DDI)) ## 
 [Mengqiao (MQ) Liu](https://www.linkedin.com/in/mengqiao-mq-liu-75288375) @ [DDI](https://www.ddiworld.com)  
-Rachel King
-Evan Sinar
+Rachel King  
+Evan Sinar  
 Private Test Set AUC = .836  
 
 ## Third Place: ROC You Like a Hurricane ([Code](03_ROC_you_like_a_hurricane)) ## 
@@ -41,8 +41,7 @@ Private Test Set AUC = .834
 [Presentation](04_ByteMonsters/SIOP_ML_Comp_Byte_Monsters.pdf)
 
  
-
 ### Organizers ###
 Dan J. Putka   
 Alexander Schwall  
-Ben Taylor  
+Ben Taylor @ [ZIFF](https://www.ziff.io)
