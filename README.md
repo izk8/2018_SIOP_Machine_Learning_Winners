@@ -37,7 +37,7 @@ Private Test Set AUC = .834
 [Isaac Thompson](https://www.linkedin.com/in/thompsonisaac) @ [Shaker](https://www.shakercg.com)   
 Scott Tonidandel @ Davidson  
 Private Test Set AUC = .834  
-[Presentation](04_ByteMonsters/SIOP_ML_Comp_Byte_Monsters.pdf)
+[Presentation](04_ByteMonsters/SIOP_ML_Comp_Byte_Monsters.pdf)  
 Special note: this code is split up into smaller chuncks for usability.
 
 ## Organizers ##
