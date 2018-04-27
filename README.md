@@ -43,6 +43,6 @@ Private Test Set AUC = .834
 Note: this code is split up into smaller chuncks for usability.
 
 ## Organizers ##
-[Dan J. Putka](linkedin.com/in/dputka) @ [HumRRO](https://www.humrro.org)  
+[Dan J. Putka](https://www.linkedin.com/in/dputka) @ [HumRRO](https://www.humrro.org)  
 Alexander Schwall  
-[Ben Taylor](linkedin.com/in/bentaylordata) @ [ZIFF](www.ziff.io)
+[Ben Taylor](https://www.linkedin.com/in/bentaylordata) @ [ZIFF](www.ziff.io)
