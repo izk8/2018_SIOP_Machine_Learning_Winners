@@ -1,6 +1,5 @@
-# 2018 SIOP Machine Learning Competition Repository #
-The 2018 conference featured the results of SIOP's first-ever machine learning competition. Teams competed for several months by experimenting with various analytical techniques for maximizing the variance explained in a large-scale data set. Those with the best results presented their methodsat SIOP 2018. Here is the repo with all their code and select presentations.  
-
+# 2018 SIOP Machine Learning Competition Winning Submission Repository #
+The 2018 annual Society for Industrial and Organizational Psychology (SIOP) conference featured the first-ever machine learning competition. Teams competed for several months with various analytical techniques to predict turnover in a large US company. Winning submissions had to be done in open source and are posted here. 
 
 ### Problem ###
 Predicting voluntary turnover at Eli Lilly  
@@ -26,7 +25,7 @@ Evan Sinar
 Private Test Set AUC = .836  
 
 ## Third Place: ROC You Like a Hurricane ([Code](03_ROC_you_like_a_hurricane)) ## 
-Erin Banjanovic @ HumRRO  
+Erin Banjanovic @ [HumRRO](https://www.humrro.org)  
 Adam Beatty @ HumRRO  
 Ted Diaz @ HumRRO  
 Rod McCloy @ HumRRO  
@@ -39,9 +38,10 @@ Private Test Set AUC = .834
 Scott Tonidandel @ Davidson  
 Private Test Set AUC = .834  
 [Presentation](04_ByteMonsters/SIOP_ML_Comp_Byte_Monsters.pdf)
+Special note: this code is split up into smaller chuncks for usability.
 
  
 ### Organizers ###
-Dan J. Putka   
+Dan J. Putka @ [HumRRO](https://www.humrro.org)  
 Alexander Schwall  
 Ben Taylor @ [ZIFF](www.ziff.io)
