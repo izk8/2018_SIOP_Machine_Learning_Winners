@@ -43,4 +43,4 @@ Special note: this code is split up into smaller chuncks for usability.
 ## Organizers ##
 Dan J. Putka @ [HumRRO](https://www.humrro.org)  
 Alexander Schwall  
-Ben Taylor @ [ZIFF](www.ziff.io)
+[Ben Taylor](linkedin.com/in/bentaylordata) @ [ZIFF](www.ziff.io)
