@@ -12,19 +12,19 @@ Training set (n = 24,205)
 Test set (n = 8,091)  
 Evaluation metric: Cross-validated area under the ROC curve (AUC) statistic.  
 
-# Winners #
+## Winners ##
 
-## First Place: An Enriching Meal ([Code](01_An_Enriching_Meal)) ##  
+### First Place: An Enriching Meal ([Code](01_An_Enriching_Meal)) ###  
 [Nick Koenig](linkedin.com/in/nick-koenig-69699a27) @ [Walmart](https://www.walmart.com)   
 Private Test Set AUC = .839  
 
-## Second Place: Team DDI ([Code](02_Team_DDI)) ## 
+### Second Place: Team DDI ([Code](02_Team_DDI)) ### 
 [Mengqiao (MQ) Liu](https://www.linkedin.com/in/mengqiao-mq-liu-75288375) @ [DDI](https://www.ddiworld.com)  
 Rachel King  
 Evan Sinar  
 Private Test Set AUC = .836  
 
-## Third Place: ROC You Like a Hurricane ([Code](03_ROC_you_like_a_hurricane)) ## 
+### Third Place: ROC You Like a Hurricane ([Code](03_ROC_you_like_a_hurricane)) ### 
 Erin Banjanovic @ [HumRRO](https://www.humrro.org)  
 Adam Beatty @ HumRRO  
 Ted Diaz @ HumRRO  
@@ -33,15 +33,14 @@ Colby Nesbitt @ HumRRO
 Justin Purl @ HumRRO  
 Private Test Set AUC = .834  
 
-## Fourth Place: Byte Monsters ([Code](04_ByteMonsters/00_code)) ## 
+### Fourth Place: Byte Monsters ([Code](04_ByteMonsters/00_code)) ### 
 [Isaac Thompson](https://www.linkedin.com/in/thompsonisaac) @ [Shaker](https://www.shakercg.com)   
 Scott Tonidandel @ Davidson  
 Private Test Set AUC = .834  
 [Presentation](04_ByteMonsters/SIOP_ML_Comp_Byte_Monsters.pdf)
 Special note: this code is split up into smaller chuncks for usability.
 
- 
-### Organizers ###
+## Organizers ##
 Dan J. Putka @ [HumRRO](https://www.humrro.org)  
 Alexander Schwall  
 Ben Taylor @ [ZIFF](www.ziff.io)
