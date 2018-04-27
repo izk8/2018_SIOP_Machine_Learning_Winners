@@ -1,5 +1,5 @@
 # 2018 SIOP Machine Learning Competition Winning Submission Repository #
-The 2018 annual Society for Industrial and Organizational Psychology (SIOP) conference featured the first-ever machine learning competition. Teams competed for several months with various analytical techniques to predict turnover in a large US company. Winning submissions had to be done in open source and are posted in this repository. A more complete introduction as presented at the conference can be found [here]( introduction ) 
+The 2018 annual Society for Industrial and Organizational Psychology (SIOP) conference featured the first-ever machine learning competition. Teams competed for several months with various analytical techniques to predict turnover in a large US company. Winning submissions had to be done in open source and are posted in this repository. A more complete introduction as presented at the conference can be found [here](ML_Competition_Intro.pdf) 
 
 ### Problem ###
 Predicting voluntary turnover at Eli Lilly  
