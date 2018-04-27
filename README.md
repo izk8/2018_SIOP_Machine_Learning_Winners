@@ -37,7 +37,7 @@ Private Test Set AUC = .834
 Scott Tonidandel @ Davidson  
 Private Test Set AUC = .834  
 [Presentation](04_ByteMonsters/SIOP_ML_Comp_Byte_Monsters.pdf)  
-Special note: this code is split up into smaller chuncks for usability.
+Note: this code is split up into smaller chuncks for usability.
 
 ## Organizers ##
 [Dan J. Putka](linkedin.com/in/dputka) @ [HumRRO](https://www.humrro.org)  
