@@ -44,4 +44,4 @@ Private Test Set AUC = .834
 ### Organizers ###
 Dan J. Putka   
 Alexander Schwall  
-Ben Taylor @ [ZIFF](https://www.ziff.io)
+Ben Taylor @ [ZIFF](www.ziff.io)
