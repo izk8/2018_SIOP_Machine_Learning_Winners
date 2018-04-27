@@ -35,7 +35,7 @@ Colby Nesbitt @ HumRRO
 Justin Purl @ HumRRO  
 Private Test Set AUC = .834  
 
-## Fourth Place: Byte Monsters ([Code](04_ByteMonsters/00_code)) ## 
+## Fourth Place: Byte Monsters ([Code](04_ByteMonsters)) ## 
 [Isaac Thompson](https://www.linkedin.com/in/thompsonisaac) @ [Shaker](https://www.shakercg.com)   
 Scott Tonidandel @ Davidson  
 Private Test Set AUC = .834  
