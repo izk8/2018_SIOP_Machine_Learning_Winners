@@ -15,6 +15,9 @@ The 2018 annual Society for Industrial and Organizational Psychology (SIOP) conf
 
 ## First Place: An Enriching Meal ([Code](01_An_Enriching_Meal)) ##  
 [Nick Koenig](linkedin.com/in/nick-koenig-69699a27) @ [Walmart](https://www.walmart.com)   
+David Futrell @ Walmart  
+Matthew Arsenault @ Walmart  
+Daniel Schmerling @ Capital One  
 Private Test Set AUC = .839  
 
 ## Second Place: Team DDI ([Code](02_Team_DDI)) ## 
